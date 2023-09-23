@@ -45,4 +45,4 @@ ig_clone_data: This SQL schema forms the backbone of our analysis. The column na
 
 to view the solution for this case study check social-media-data-analysis-with-sql(1).sql file!
 
-#Thank you for exploring my SQL project. Your interest and support are greatly appreciated.
+# Thank you for exploring my SQL project. Your interest and support are greatly appreciated.
