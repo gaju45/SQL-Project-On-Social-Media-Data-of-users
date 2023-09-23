@@ -1,4 +1,4 @@
-# SQL_Project_Social_Media_Ad_Analysis 📊 📈
+# SQL_Project_Social_Media_Data_Analysis 📊 📈
 
 ## Introduction
 
