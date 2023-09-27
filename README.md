@@ -2,7 +2,11 @@
 
 ## Introduction
 
-Welcome to my SQL project, where I dive into social media data to extract valuable insights for optimizing ad campaigns. This project showcases my proficiency in SQL as I explore the dataset to uncover trends and patterns that can inform data-driven decisions in the realm of social media advertising.
+In this project, we analyze a social media's data using SQL. The project includes a variety of questions that cover different aspects of the data, ranging from easy to advance level.
+
+## Database Tools
+* MySQL
+* MySQL Workbench
 
 ## Datasets used
 
